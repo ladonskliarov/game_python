@@ -1,1 +1,1 @@
-print('Simple example')
+print("No, I'm Ladon")
