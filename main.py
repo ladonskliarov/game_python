@@ -1,2 +1,1 @@
-print("Example")
-print("Modifying")
+print('Simple example')
